@@ -1,0 +1,409 @@
+@font-face {
+    font-family: 'b';
+    src: url('/fonts/Montserrat-Bold.ttf');
+  }
+  @font-face {
+    font-family: 'r';
+    src: url('/fonts/Montserrat-Regular.ttf');
+  }
+  @font-face {
+    font-family: 'sb';
+    src: url('/fonts/Montserrat-SemiBold.ttf');
+  }
+body{
+    padding: 0vw;
+    margin: 0vw;
+}
+.header{
+    background-color: #EBB214;
+    width:50%;
+    height:5vw;
+    margin: auto;
+    margin-top: -1.5vw;
+    
+    
+}
+.h1{
+    width:35%;
+    margin: auto; 
+    font-family: 'sb';
+}
+.h1 h1{
+    padding-top: 5%;
+    
+}
+.parent_1{
+    width:100%;
+    height: 45vw;
+    background-color: white;
+    display:inline-block;
+}
+.brand{
+    
+    margin-top: 15vw;
+    margin-left: 7vw;
+    width:20%;
+    display: inline-block;
+}
+.brand img{
+    width: 100%;
+}
+.abt_block{
+    background-color:white;
+    width: 47%;
+    height: 24.52vw;
+    display: inline-block;
+    float: right;
+    margin-top: 14%;
+    margin-right: 2.5% 
+}
+.abt_block h3{
+    text-align: center;
+    border-bottom: 2px solid #EBB214;
+    width: 20%;
+    margin: auto;
+    margin-top: 3%;
+    font-size: 25px;
+    font-family: 'sb';
+}
+.abt_block p{
+    font-size: 19px;
+    font-family: 'r';
+    width: 90%;
+    margin: auto;
+    margin-top: 14%;
+}
+.parent_2{
+    width: 100%;
+    height: 90vw;
+}
+.skill_h{
+    text-align: center;
+    margin-left: 58%;
+    font-size: 20px;
+    font-family: 'sb';
+    border-bottom: 2px solid #ebb214;
+    width:9%;
+    margin: auto;
+    margin-top: 3%;
+    
+}
+.skill_h h2{
+    margin: auto;
+}
+.brand1{
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 0%;
+}
+.brand1 img{
+    width:100%;
+}
+.arrow1{
+    width: 15%;
+    margin-left: 43%;
+    margin-top:-12%;
+    
+}
+.arrow1 img{
+    
+}
+.brand2{
+    width: 40%;
+    margin-left: 60%;
+    margin-top: -20%;
+}
+.brand2 img{
+    width:100%;
+    
+}
+.arrow2{
+    width: 15%;
+    margin-left: 77%
+}
+.arrow2 img{
+    
+}
+.brand3{
+    width: 40%;  
+    margin-left:60%
+}
+.brand3 img{
+    width:100%;
+}
+.arrow3{
+    width: 15%;
+    margin-top: -12%;
+    margin-left: 44%;
+}
+.arrow3 img{
+    
+}
+.brand4{
+    width: 40%;
+    margin-top: -20%
+}
+.brand4 img{
+    width:100%;
+}
+.parent_4{
+    width:100%;
+    height:40vw;
+    background-color: #ebb214;
+}
+.heading_1{
+    text-align: center;
+    margin-left: 58%;
+    font-size: 20px;
+    font-family: 'sb';
+    border-bottom: 2px solid white;
+    width:9%;
+    margin: auto;
+    padding-top: 1%;
+    height:11%
+}
+.logos{
+    width: 5%;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.logos img{
+    width:50%;
+}
+.text{
+    width: 40%;
+    margin-top: -23%;
+    margin-left: 8%;
+}
+.text .number{
+    font-size: 20px;
+    font-family: 'r';
+}
+.text .insta{
+    margin-top: 15%;
+    font-size: 20px;
+    font-family: 'r';
+    
+}
+.text .mail{
+    margin-top: 13%;
+    font-size: 20px;
+    font-family: 'r';
+}
+.text .behance{
+    margin-top: 12%;
+    font-size: 20px;
+    font-family: 'r';
+}
+
+
+
+
+
+
+@media screen and (max-width: 640px){
+
+@font-face {
+    font-family: 'b';
+    src: url('/fonts/Montserrat-Bold.ttf');
+  }
+  @font-face {
+    font-family: 'r';
+    src: url('/fonts/Montserrat-Regular.ttf');
+  }
+  @font-face {
+    font-family: 'sb';
+    src: url('/fonts/Montserrat-SemiBold.ttf');
+  }
+body{
+    padding: 0vw;
+    margin: 0vw;
+}
+.header{
+    position: absolute;
+    background-color: #EBB214;
+    width:45%;
+    height:8vw;
+    margin: auto;
+    margin-top: -1vw;
+    margin-left: 30%;
+}
+.h1{
+    width:90%;
+    font-size: 7px;
+    font-family: 'sb';
+    margin: auto; 
+    margin-left: 17%;
+    margin-top: -5%;
+}
+.h1 h1{
+    padding-top: 5%;
+    
+}
+.parent_1{
+    width:100%;
+    height: 31vw;
+    background-color: white;
+    display:inline-block;
+    margin-top: 7vw;
+}
+.brand{
+    margin-top: 20vw;
+    margin-left: 7vw;
+    width:30%;
+    display: inline-block;
+}
+.brand img{
+    width: 100%;
+}
+.abt_block{
+    background-color:white;
+    width: 47%;
+    height: 24vw;
+    display: inline-block;
+    float: right;
+    margin-top: 14%;
+    margin-right: 2.5% 
+}
+.abt_block h3{
+    text-align: center;
+    border-bottom: 2px solid #EBB214;
+    width: 50%;
+    margin: auto;
+    margin-top: 3%;
+    font-size: 15px;
+    font-family: 'sb';
+}
+.abt_block p{
+    font-size: 10px;
+    font-family: 'r';
+    width: 101%;
+    margin: auto;
+    margin-top: 14%;
+}
+.parent_2{
+    width: 100%;
+    height: 90vw;
+}
+.skill_h{
+    text-align: center;
+    margin-left: 58%;
+    font-size: 12px;
+    border-bottom: 2px solid #ebb214;
+    width:23%;
+    margin: auto;
+    margin-top: 15%;
+    
+}
+.skill_h h2{
+    margin: auto;
+}
+.brand1{
+    width: 100%;
+    margin-top: 10%;
+    margin-left: 0%;
+}
+.brand1 img{
+    width:100%;
+}
+.arrow1{
+    width: 15%;
+    margin-left: 43%;
+    margin-top:-12%;
+    
+}
+.arrow1 img{
+    display: none;
+    
+}
+.brand2{
+    width: 100%;
+    margin-top: 15%;
+    margin-left:0%
+}
+.brand2 img{
+    width:100%;
+    
+}
+.arrow2{
+    width: 15%;
+    margin-left: 77%
+}
+.arrow2 img{
+    display: none;
+    
+}
+.brand3{
+    width: 100%;  
+    margin-left:0%;
+    margin-top: 3%;
+}
+.brand3 img{
+    width:100%;
+}
+.arrow3{
+    width: 15%;
+    margin-top: -12%;
+    margin-left: 44%;
+}
+.arrow3 img{
+    display: none;
+}
+.brand4{
+    width: 100%;
+    margin-top: 15%
+}
+.brand4 img{
+    width:100%;
+}
+.parent_4{
+    width:100%;
+    height:40vw;
+    margin-top: 240%;
+    background-color: #ebb214;
+}
+.heading_1{
+    text-align: center;
+    margin-left: 58%;
+    font-size: 10px;
+    font-family: 'sb';
+    border-bottom: 2px solid white;
+    width:21%;
+    margin: auto;
+    padding-top: 0%;
+    height:12%
+}
+.logos{
+    width: 5%;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.logos img{
+    width:50%;
+}
+.text{
+    width: 60%;
+    margin-top: -24%;
+    margin-left: 8%;
+}
+.text .number{
+    font-size: 8px;
+    font-family: 'r';
+}
+.text .insta{
+    margin-top: 8%;
+    font-size: 8px;
+    font-family: 'r';
+    
+    
+}
+.text .mail{
+    margin-top: 7%;
+    font-size: 8px;
+    font-family: 'r';
+}
+.text .behance{
+    margin-top: 6%;
+    font-size: 8px;
+    font-family: 'r';
+}
