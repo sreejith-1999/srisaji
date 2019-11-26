@@ -8,7 +8,7 @@
   }
   @font-face {
     font-family: 'sb';
-    src: url('/fonts/Montserrat-SemiBold.ttf');
+    src: url('fonts/Montserrat-SemiBold.ttf');
   }
    body{
     padding: 0vw;
