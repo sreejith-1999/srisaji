@@ -1,14 +1,14 @@
 @font-face {
-    font-family: 'b';
-    src: url('Montserrat-Bold.ttf');
+    font-family: b;
+    src: url(Montserrat-Bold.ttf);
   }
   @font-face {
-    font-family: 'r';
-    src: url('Montserrat-Regular.ttf');
+    font-family: r';
+    src: url(Montserrat-Regular.ttf);
   }
   @font-face {
     font-family: 'sb';
-    src: url('Montserrat-SemiBold.ttf');
+    src: url(Montserrat-SemiBold.ttf);
   }
    body{
     padding: 0vw;
@@ -98,7 +98,7 @@
 }
 .name h1{
     font-size: 50px;
-    font-family: 'sb';
+    font-family: sb;
     
 }
 .post{
@@ -108,7 +108,7 @@
 }
 .post h3{
     color: #EBB214;
-    font-family: 'r';
+    font-family: r;
     
 }
 .parent_1{
@@ -144,14 +144,14 @@
     margin: auto;
     margin-top: 3%;
     font-size: 25px;
-    font-family: 'sb';
+    font-family: sb;
 }
 .abt_block p{
     font-size: 20px;
     width: 90%;
     margin: auto;
     margin-top: 14%;
-    font-family: 'r';
+    font-family: r;
 }
 .parent_2{
     width: 100%;
@@ -161,7 +161,7 @@
     text-align: center;
     margin-left: 58%;
     font-size: 20px;
-    font-family: 'sb';
+    font-family: sb;
     border-bottom: 2px solid #ebb214;
     width:9%;
     margin: auto;
@@ -271,7 +271,7 @@
     text-align: center;
     margin-left: 58%;
     font-size: 20px;
-    font-family: 'sb';
+    font-family: sb;
     border-bottom: 2px solid white;
     width:9%;
     margin: auto;
@@ -298,18 +298,18 @@
 .text .insta{
     margin-top: 11%;
     font-size: 20px;
-    font-family: 'r';
+    font-family: r;
     
 }
 .text .mail{
     margin-top: 11%;
     font-size: 20px;
-    font-family: 'r';
+    font-family: r;
 }
 .text .behance{
     margin-top: 9.5%;
     font-size: 20px;
-    font-family: 'r';
+    font-family: r;
 }
 
 
@@ -318,16 +318,16 @@
 @media screen and (max-width: 640px){
 
 @font-face {
-    font-family: 'b';
-    src: url('/fonts/Montserrat-Bold.ttf');
+    font-family: b;
+    src: url(Montserrat-Bold.ttf);
   }
   @font-face {
-    font-family: 'r';
-    src: url('/fonts/Montserrat-Regular.ttf');
+    font-family: r;
+    src: url(Montserrat-Regular.ttf);
   }
   @font-face {
-    font-family: 'sb';
-    src: url('/fonts/Montserrat-SemiBold.ttf');
+    font-family: sb;
+    src: url(Montserrat-SemiBold.ttf);
   }
     body{
     padding: 0vw;
@@ -420,7 +420,7 @@
 }
 .name h1{
     font-size: 15px;
-    font-family: 'sb';
+    font-family: sb;
     
 }
 .post{
@@ -430,7 +430,7 @@
 }
 .post h3{
     color: #EBB214;
-    font-family: 'sb';
+    font-family: sb;
     font-size: 10px
     
 }
@@ -467,11 +467,11 @@
     margin: auto;
     margin-top: 2%;
     font-size: 10px;
-    font-family: 'sb';
+    font-family: sb;
 }
 .abt_block p{
     font-size: 8px;
-    font-family:'r';
+    font-family:r;
     width: 70%;
     margin: auto;
     margin-top: 4%;
@@ -484,7 +484,7 @@
     text-align: center;
     margin-left: 58%;
     font-size: 10px;
-    font-family: 'sb';
+    font-family: sb;
     border-bottom: 2px solid #ebb214;
     width:15%;
     margin: auto;
@@ -510,7 +510,7 @@
     text-align: center;
     margin-left: 58%;
     font-size: 10px;
-    font-family:'sb';
+    font-family:sb;
     border-bottom: 2px solid #ebb214;
     width:25%;
     height: 10%;
@@ -595,7 +595,7 @@
     text-align: center;
     margin-left: 58%;
     font-size: 10px;
-    font-family: 'sb';
+    font-family: sb;
     border-bottom: 2px solid white;
     width:21%;
     margin: auto;
@@ -617,22 +617,22 @@
 }
 .text .number{
     font-size: 8px;
-    font-family: 'r';
+    font-family: r;
 }
 .text .insta{
     margin-top: 8%;
     font-size: 8px;
-    font-family: 'r';
+    font-family: r;
     
     
 }
 .text .mail{
     margin-top: 7%;
     font-size: 8px;
-    font-family: 'r';
+    font-family: r;
 }
 .text .behance{
     margin-top: 6%;
     font-size: 8px;
-    font-family: 'r';
+    font-family: r;
 }
