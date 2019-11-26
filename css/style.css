@@ -3,11 +3,11 @@
     src: url(Montserrat-Bold.ttf);
   }
   @font-face {
-    font-family: r';
+    font-family: r;
     src: url(Montserrat-Regular.ttf);
   }
   @font-face {
-    font-family: 'sb';
+    font-family: sb;
     src: url(Montserrat-SemiBold.ttf);
   }
    body{
