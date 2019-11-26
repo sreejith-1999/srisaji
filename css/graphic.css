@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'b';
-    src: url('/fonts/Montserrat-Bold.ttf');
+    src: url('Montserrat-Bold.ttf');
   }
   @font-face {
     font-family: 'r';
-    src: url('/fonts/Montserrat-Regular.ttf');
+    src: url('Montserrat-Regular.ttf');
   }
   @font-face {
     font-family: 'sb';
-    src: url('/fonts/Montserrat-SemiBold.ttf');
+    src: url('Montserrat-SemiBold.ttf');
   }
 body{
     padding: 0vw;
